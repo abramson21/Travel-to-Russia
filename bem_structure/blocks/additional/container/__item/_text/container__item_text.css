@@ -1,0 +1,13 @@
+.container__item_text{
+    position: absolute;
+    width: 248px;
+    left: 18px;
+    right: 18px;
+    bottom: 30px;
+    margin: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    z-index: 2;
+}

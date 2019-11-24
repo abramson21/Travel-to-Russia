@@ -1,0 +1,14 @@
+@import url(../item/__icon-play/item__icon-play.css);
+@import url(../item/__duraction/item__duraction.css);
+@import url(./__title/item__title.css);
+@import url(./__subtitle/item__subtitle.css);
+@import url(./__subtitle/subtitle_width/item__subtitle_width.css);
+@import url(./item__image/item__image.css);
+@import url(./item__image/item__image_screen-1.css);
+@import url(./item__image/item__image_screen-2.css);
+
+.item{
+    position: relative;
+    width: 583px;
+    height: 323px;
+}

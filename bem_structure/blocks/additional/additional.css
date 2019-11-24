@@ -1,0 +1,10 @@
+@import url(./__content-title/additional__content-title.css);
+@import url(./__content-subtitle/additional__content-subtitle.css);
+@import url(./container/container.css);
+
+.additional{
+    display: flex;
+    width: 1184px;
+    margin: 102px auto;
+    flex-direction: column;
+}

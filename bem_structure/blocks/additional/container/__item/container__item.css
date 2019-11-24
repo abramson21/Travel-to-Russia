@@ -1,0 +1,9 @@
+@import url(./_heading/container__item_heading.css);
+@import url(./_text/container__item_text.css);
+
+.container__item{
+    position: relative;
+    width: 284px;
+    height: 330px;
+    z-index: 2;
+}

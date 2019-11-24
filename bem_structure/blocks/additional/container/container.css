@@ -1,0 +1,12 @@
+@import url(./__item/container__item.css);
+@import url(./container__item_image/container__item_image-nov.css);
+@import url(./container__item_image/container__item_image-arct.css);
+@import url(./container__item_image/container__item_image-cherep.css);
+@import url(./container__item_image/container__item_image-nikola.css);
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1184px;
+}

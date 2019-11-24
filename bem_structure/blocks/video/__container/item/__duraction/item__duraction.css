@@ -1,0 +1,13 @@
+.item__duraction{
+    position: absolute;
+    width: 44px;    
+    font-family: Inter;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+    bottom: 131px;
+    left: 30px;
+    z-index: 2;
+    margin-bottom: 12px;  
+}

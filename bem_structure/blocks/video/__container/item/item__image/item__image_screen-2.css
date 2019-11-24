@@ -1,0 +1,6 @@
+@import url(../rect/rect.css);
+
+.item__image_screen-2{
+    background-image: url(../images/screen-2.png);
+    background-size: cover;
+}

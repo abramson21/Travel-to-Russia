@@ -1,0 +1,10 @@
+.item__icon-play{
+    position: absolute;
+    height: 41px;
+    width: 41px;
+    left: 30px;
+    top: 30px;
+    right: 90.7%;
+    z-index: 2;
+    background-image: url(../images/__icon_play.png);
+}

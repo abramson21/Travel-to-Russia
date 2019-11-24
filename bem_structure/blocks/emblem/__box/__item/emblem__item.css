@@ -1,0 +1,12 @@
+@import url(../__item/__paragraph-city/emblem__paragraph-city.css);
+@import url(./__image/emblem__image-novgorod/emblem__image-novgorod.css);
+@import url(./__image/emblem__image-rostov/emblem__image-rostov.css);
+@import url(../__item/__image/emblem__image-tombov/emblem__image-tombov.css);
+@import url(../__item/__image/emblem__image-elabyga/emblem__image-elabyga.css);
+@import url(../__item/__image/emblem__image-perm/emblem__image-perm.css);
+
+.emblem__item{
+    display: flex;
+    flex-direction: column;
+    width: 208px;
+}

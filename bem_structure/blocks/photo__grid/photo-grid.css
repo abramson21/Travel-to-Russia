@@ -1,0 +1,10 @@
+@import url(./_item/photo-grid__item.css);
+
+.photo-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 82.2%;
+    margin: 92px auto 0px;
+}

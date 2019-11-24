@@ -1,0 +1,10 @@
+.container__item_heading{
+    position: absolute;
+    width: 248px;
+    margin: 30px 18px;
+    font-family: Inter;
+    font-size: 27px;
+    line-height: 29px;
+    color: #FFFFFF;
+    z-index: 2;
+}

@@ -1,0 +1,13 @@
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+@import url(./cover-rect/cover-rect.css);
+@import url(./cover-bg/cover-bg.css);
+
+.cover{
+    width: 1184px;
+    max-width: 100%;
+    margin: 0 auto 82px;
+    background-size: cover;
+    z-index: 0;
+    position: relative;
+}

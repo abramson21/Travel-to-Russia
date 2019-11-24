@@ -1,0 +1,7 @@
+@import url(./__title/place__title.css);
+@import url(./__image/place__image.css);
+
+.place__left-position{
+    width: 50%;
+    height: 100%;
+}

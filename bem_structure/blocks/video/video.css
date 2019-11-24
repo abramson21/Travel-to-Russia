@@ -1,0 +1,9 @@
+@import url(content-title.css);
+@import url(content-subtitle.css);
+@import url(./__container/video__container.css);
+
+.video{
+    max-width: 1184px;
+    margin: 102px auto 0px;
+    z-index: 1;
+}

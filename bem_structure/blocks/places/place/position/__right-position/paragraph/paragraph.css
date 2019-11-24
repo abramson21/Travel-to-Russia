@@ -1,0 +1,12 @@
+@import url(./__first/paragraph__first.css);
+@import url(./__second/paragraph__second.css);
+
+
+.paragraph{
+    margin-top: 60px;
+    width: 484px;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}

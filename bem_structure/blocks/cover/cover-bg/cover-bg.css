@@ -1,0 +1,10 @@
+@import url(../cover-rect/cover-rect.css);
+
+.cover-bg{
+    max-width: 100%;
+    padding-bottom: 20%;
+    background-image: url(../image/train.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 2;
+}

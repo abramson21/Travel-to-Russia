@@ -1,0 +1,6 @@
+@import url(../_bold/text_bold.css);
+@import url(../_normal/text_normal.css);
+
+.text-three__text_position{
+    display: flex;
+}

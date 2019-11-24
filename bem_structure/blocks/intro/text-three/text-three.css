@@ -1,0 +1,13 @@
+@import url(../content-row/text-two/_bold/text_bold.css);
+@import url(../content-row/text-two/_normal/text_normal.css);
+@import url(../content-row/text-two/__position/text__position.css);
+
+.text-three{
+    max-width: 53.07%;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 35px 0px 0px;
+    color: #FFFFFF;
+}

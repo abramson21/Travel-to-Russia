@@ -1,0 +1,10 @@
+@import url(./position/position.css);
+@import url(./__size/plase__size-1.css);
+@import url(./__size/plase__size-2.css);
+
+.place{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 72px;
+    width: 984px;
+}

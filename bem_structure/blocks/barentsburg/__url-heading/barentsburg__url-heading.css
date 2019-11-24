@@ -1,0 +1,13 @@
+.barentsburg__url-heading{
+    position: absolute;
+    width: 282px;
+    right: 400px;
+    bottom: 108px;
+    margin: 0px;
+    font-family: Inter;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #AAAAAA;
+}

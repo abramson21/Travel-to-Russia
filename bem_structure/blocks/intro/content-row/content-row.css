@@ -1,0 +1,7 @@
+@import url('./text-one/text-one.css');
+@import url('./text-two/text-two.css');
+
+.content-row{
+    display: flex;
+    max-width: 100%;
+}

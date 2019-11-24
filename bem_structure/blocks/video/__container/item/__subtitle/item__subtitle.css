@@ -1,0 +1,13 @@
+.item__subtitle{
+    position: absolute;
+    width: 285px;
+    left: 30px;
+    top: 280px;
+    bottom: 30px;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 0px;
+    z-index: 2;
+    color: #FFFFFF;
+}

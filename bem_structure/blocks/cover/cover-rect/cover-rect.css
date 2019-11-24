@@ -1,0 +1,15 @@
+.cover-rect{
+        width: 1184px;
+        max-width: 100%;
+        height: 573px;
+        background: #2A2C2F;
+        opacity: 0.3;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        position: absolute;
+}
+
+.cover-rect:hover {   
+        background-color: rgba(0, 0, 0, .8);
+}

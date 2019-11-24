@@ -1,0 +1,9 @@
+@import url(./__position/text-three__text_position.css);
+
+.text-two{
+    font-family: Inter;
+    font-size: 10px;
+    line-height: 16px;
+    margin: 0px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,9 @@
+@import url('./title/title.css');
+@import url('./subtitle/subtitle.css');
+@import url('./content-row/content-row.css');
+@import url('./text-three/text-three.css');
+
+.intro{
+    max-width: 683px;
+    margin: 80px auto 0px 15.83%;
+}

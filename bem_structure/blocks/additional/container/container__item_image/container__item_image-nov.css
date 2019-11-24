@@ -1,0 +1,5 @@
+@import url(../container_rect/container_rect.css);
+
+.container__item_image-nov{
+    background-image: url(./images/nov.png);
+}

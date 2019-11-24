@@ -1,0 +1,8 @@
+@import url(../cover-bg/cover-bg.css);
+
+.cover-image{
+    max-width: 1184px;
+    max-height: 594px;
+    max-width: 100%;
+    border: 1px solid red;
+}

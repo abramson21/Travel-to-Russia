@@ -1,0 +1,14 @@
+.item__title{
+    position: absolute;
+    width: 322px;  
+    font-family: Inter;
+    font-size: 36px;
+    line-height: 39px;
+    font-weight: 700;
+    color: #FFFFFF;
+    left: 30px;
+    bottom: 61px;
+    margin: 0px;
+    padding: 0;
+    z-index: 2;
+}

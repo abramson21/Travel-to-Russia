@@ -1,0 +1,8 @@
+@import url(./url-heading/url-heading.css);
+@import url(./url/url.css);
+@import url(./paragraph/paragraph.css);
+@import url(./__right-position_margin/place__right-position_margin.css);
+
+.place__right-position{
+    width: 50%;
+}
